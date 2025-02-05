@@ -1,16 +1,23 @@
-# clima
+# Aplicativo de Clima em Flutter
 
-A new Flutter project.
+Este é um aplicativo simples de previsão do tempo desenvolvido em Flutter, que consome a API OpenWeatherMap para exibir informações climáticas, como temperatura, umidade, vento e nuvens.
 
-## Getting Started
+# 📌 Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Exibe a temperatura atual, mínima e máxima.
 
-A few resources to get you started if this is your first Flutter project:
+- Mostra a umidade, velocidade do vento e cobertura de nuvens.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Atualiza os dados climáticos ao pressionar um botão.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Ícones representando as condições climáticas.
+
+# 🚀 Tecnologias Utilizadas
+
+**Flutter:** Framework para desenvolvimento mobile.
+
+**Dart:** Linguagem de programação utilizada.
+
+**HTTP:** Pacote usado para requisições HTTP.
+
+**OpenWeatherMap API:** Fonte dos dados climáticos.
